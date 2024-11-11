@@ -1,4 +1,4 @@
-# Trabajo Práctico Final: Sistema de Recuperación de Información Asistida por Generación (RAG) con LangChain y Ollama
+Sistema de Recuperación de Información Asistida por Generación (RAG) con LangChain y Ollama
 
 ## Descripción
 
